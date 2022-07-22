@@ -1,0 +1,20 @@
+.pokemon-item {
+    transition: all 0.3s ease;
+}
+
+.pokemon-item:hover {
+    transform: scale(1.1);
+}
+
+.container {
+    max-width: 1300px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+body {
+    overflow-x: hidden;
+}
